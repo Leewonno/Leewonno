@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
   <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
-</div>
+</div> 
  
 <br />
 
