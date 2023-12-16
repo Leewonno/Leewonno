@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
 </div>
 
-<br />
+<br /> 
 
 ## 🎨 Graphic
 <div>
