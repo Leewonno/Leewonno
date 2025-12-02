@@ -4,17 +4,26 @@
 ## 프론트엔드 개발자
 눈앞에서 바로 결과가 드러나고 사용자 경험을 직접 개선할 수 있다는 점에 흥미를 느껴 프론트엔드 개발자가 되었습니다. 특히 프론트엔드는 사용자를 맞이하는 관문으로, 기업의 경쟁력을 결정짓는 핵심 요소라고 생각합니다. 사용자의 입장에서 고민하고 불편함을 개선하여, 더 나은 사용자 경험을 제공하는 프론트엔드 개발자로 성장하겠습니다.
 
-## CONTACT
+## 1. CONTACT
 - **Email** : dldnjssh123@naver.com <br/>
 - **Blog** : [https://mylog-devlog.vercel.app](https://mylog-devlog.vercel.app/) <br/>
 - **Portfolio** : [https://portfolio-67029.web.app](https://portfolio-67029.web.app/) <br/>
 
-## SKILLS
+## 2. SKILLS
 - **Language** : `TypeScript`, `JavaScript`, `Python`
 - **Frontend** : `React`, `Next.js`, `React-Native`, `TanStack Query(React Query)`, `Redux`, `Recoil`, `Styled Components`, `JQuery`
 - **Backend** : `Django`, `NestJS`, `Node.js`, `GraphQL`
 - **Cloud/BaaS** : `AWS`, `Firebase`, `Vercel`, `Netlify`
 - **Database** : `MySQL`, `PostgreSQL`
+
+## 3. CAREER
+### 서울소프트(SeoulSoft) | 2024.04 ~ 2025.11
+- 운수사(버스·택시) ERP 서비스를 개발·제공하는 IT 기업
+- 모빌리티 개발팀 / 사원 / Full-Stack Developer
+- 주요 업무
+  - 배차, 급여, 자재, 인사관리 등 핵심 업무 모듈 개발 및 유지보수
+  - Django 기반 MVT 패턴을 활용한 웹 서비스 개발
+  - AWS Elastic Beanstalk, EC2, RDS, S3, Cloud Watch 등을 이용한 서비스 배포 및 인프라 관리 자동화
 
 
 <!--
