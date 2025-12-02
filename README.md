@@ -11,7 +11,7 @@
 
 ## SKILLS
 - **Language** : `TypeScript`, `JavaScript`, `Python`
-- **Frontend** : `React`, `Next.js`, `React-Native`, `TanStack Query`, `Redux`, `Recoil`, `Styled Components`, `JQuery`
+- **Frontend** : `React`, `Next.js`, `React-Native`, `TanStack Query(React Query)`, `Redux`, `Recoil`, `Styled Components`, `JQuery`
 - **Backend** : `Django`, `NestJS`, `Node.js`, `GraphQL`
 - **Cloud/BaaS** : `AWS`, `Firebase`, `Vercel`, `Netlify`
 - **Database** : `MySQL`, `PostgreSQL`
