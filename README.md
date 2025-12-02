@@ -1,4 +1,23 @@
-## 💻 Programing
+# 불편함을 기회로 바꾸는 개발자
+불편함을 성장과 기회로 바꾸는 개발자, 이원노입니다. 작은 불편도 가능성으로 바라보고, 이를 해결하는 과정에서 새로운 가치를 만들어내고자 합니다. 이를 통해 사용자에게는 편의와 만족을, 회사에는 효율과 안정성을, 그리고 저에게는 성장과 경험을 가져오겠습니다.
+
+## 프론트엔드 개발자
+눈앞에서 바로 결과가 드러나고 사용자 경험을 직접 개선할 수 있다는 점에 흥미를 느껴 프론트엔드 개발자가 되었습니다. 특히 프론트엔드는 사용자를 맞이하는 관문으로, 기업의 경쟁력을 결정짓는 핵심 요소라고 생각합니다. 사용자의 입장에서 고민하고 불편함을 개선하여, 더 나은 사용자 경험을 제공하는 프론트엔드 개발자로 성장하겠습니다.
+
+## CONTACT
+- **Email** : dldnjssh123@naver.com <br/>
+- **Blog** : [https://mylog-devlog.vercel.app](https://mylog-devlog.vercel.app/) <br/>
+- **Portfolio** : [https://portfolio-67029.web.app](https://portfolio-67029.web.app/) <br/>
+
+## SKILLS
+- **Language** : `TypeScript`, `JavaScript`, `Python`
+- **Frontend** : `React`, `Next.js`, `React-Native`, `TanStack Query`, `Redux`, `Recoil`, `Styled Components`, `JQuery`
+- **Backend** : `Django`, `NestJS`, `Node.js`, `GraphQL`
+- **Cloud/BaaS** : `AWS`, `Firebase`, `Vercel`, `Netlify`
+- **Database** : `MySQL`, `PostgreSQL`
+
+
+<!--
 <div>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
@@ -6,10 +25,10 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </div>
+-->
 
-<br />
-
-## 🔨 Front-end
+<!--
+## 🔨 
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" />
@@ -23,9 +42,10 @@
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-</div>  
+</div> 
+-->
 
-<br />
+<!--
 
 ## 🔌 Back-end
 <div>
@@ -38,7 +58,9 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 </div>
 
-<br />
+-->
+
+<!--
 
 ## ☁️ Cloud / BaaS
 <div>
@@ -48,15 +70,13 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </div>
 
-<br />
- 
 ## 💾 DB
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </div>
 
-<br /> 
+-->
 
 <!--
 ## 🎨 Graphic
@@ -67,24 +87,8 @@
 </div> 
 -->
  
-<br />
-
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leewonno&show_icons=true&theme=default) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leewonno&layout=compact&theme=default)
 -->
 
-<!--
-**Leewonno/Leewonno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
