@@ -10,7 +10,7 @@
 - **Portfolio** : [https://portfolio-67029.web.app](https://portfolio-67029.web.app/) <br/>
 
 ## 2. SKILLS
-- **Language** : `TypeScript`, `JavaScript`, `Python`
+- **Language** : `JavaScript`, `TypeScript`, `Python`
 - **Frontend** : `React`, `Next.js`, `React-Native`, `TanStack Query(React Query)`, `Redux`, `Recoil`, `Styled Components`, `JQuery`
 - **Backend** : `Django`, `NestJS`, `Node.js`, 
 - **Cloud/BaaS** : `AWS`, `Firebase`, `Vercel`, `Netlify`
