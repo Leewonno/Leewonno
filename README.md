@@ -20,11 +20,17 @@
 ## 3. CAREER
 ### 서울소프트(SeoulSoft) | 2024.04 ~ 2025.11
 - 운수사(버스·택시) ERP 서비스를 개발·제공하는 IT 기업
-- 모빌리티 개발팀 / 사원 / Full-Stack Developer
+- 모빌리티 개발팀 / Full-Stack Developer
 - 주요 업무
   - 배차, 급여, 자재, 인사관리 등 핵심 업무 모듈 개발 및 유지보수
   - Django 기반 MVT 패턴을 활용한 웹 서비스 개발
   - AWS Elastic Beanstalk, EC2, RDS, S3, Cloud Watch 등을 이용한 서비스 배포 및 인프라 관리 자동화
+ 
+### 이로운소프트(ErounSoft) | 2025.12 ~ 
+- ERP 서비스를 개발·제공하는 IT 기업
+- SI개발팀 / Frontend Developer
+- 주요 업무
+  - VanillaJS 기반 화면 개발 및 API 연동
 
 
 <!--
