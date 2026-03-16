@@ -3,7 +3,7 @@
 ## 1. CONTACT
 - **Email** : dldnjssh123@naver.com <br/>
 - **Blog** : [https://mylog-devlog.vercel.app](https://mylog-devlog.vercel.app/) <br/>
-- **Portfolio** : [https://portfolio-67029.web.app](https://portfolio-67029.web.app/) <br/>
+- **Portfolio** : [https://leewonno.vercel.app/](https://leewonno.vercel.app/) <br/>
 
 ## 2. SKILLS
 - **Languages** : `JavaScript`, `TypeScript`, `Python`
