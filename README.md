@@ -2,8 +2,6 @@
 
 ## 1. CONTACT
 - **Email** : dldnjssh123@naver.com <br/>
-- **Blog** : [https://velog.io/@dldnjssh123](https://velog.io/@dldnjssh123) <br/>
-- **Portfolio** : [https://leewonno.vercel.app/](https://leewonno.vercel.app/) <br/>
 
 ## 2. SKILLS
 - **Languages** : `JavaScript`, `TypeScript`, `Python`
