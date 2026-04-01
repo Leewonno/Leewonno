@@ -12,8 +12,8 @@
 - **Database** : `MySQL`, `PostgreSQL`
 
 ## 3. CAREER
-- 이로운소프트(ErounSoft) / 2025.12 ~ 2026.03
-- 서울소프트(SeoulSoft) / 2024.04 ~ 2025.11
+- 이로운소프트(ErounSoft) - 2025.12 ~ 2026.03
+- 서울소프트(SeoulSoft) - 2024.04 ~ 2025.11
 
 <!--
 <div>
