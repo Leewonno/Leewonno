@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae8639b7-5a5e-4596-8cc1-28f1593000d8)
+<!-- ![image](https://github.com/user-attachments/assets/ae8639b7-5a5e-4596-8cc1-28f1593000d8) -->
 
 ## 1. CONTACT
 - **Email** : dldnjssh123@naver.com <br/>
