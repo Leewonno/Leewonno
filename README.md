@@ -5,15 +5,15 @@
 
 ## 2. SKILLS
 - **Languages** : `JavaScript`, `TypeScript`, `Python`
-- **Frontend** : `React`, `Next.js`, `React-Native`, `TanStack`, `Redux`, `Zustand`, `Recoil`, `JQuery`, 
+- **Frontend** : `React`, `Next.js`, `TanStack`, `Redux`, `Zustand`, `JQuery`, 
 - **Backend** : `Django`, `NestJS`, `Node.js`,
-- **Cloud/BaaS** : `AWS`, `Firebase`, `Supabase`, `Vercel`, `Netlify`
+- **Cloud/BaaS** : `AWS`, `Firebase`, `Supabase`
 - **Query Language** : `SQL`, `GraphQL`
-- **Database** : `MySQL`, `PostgreSQL`
+<!-- - **Database** : `MySQL`, `PostgreSQL` -->
 
 ## 3. CAREER
-- 이로운소프트(ErounSoft) - 2025.12 ~ 2026.03
-- 서울소프트(SeoulSoft) - 2024.04 ~ 2025.11
+- ErounSoft - 2025.12 ~ 2026.03
+- SeoulSoft - 2024.04 ~ 2025.11
 
 <!--
 <div>
