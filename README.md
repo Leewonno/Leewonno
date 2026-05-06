@@ -1,9 +1,13 @@
 <!-- ![image](https://github.com/user-attachments/assets/ae8639b7-5a5e-4596-8cc1-28f1593000d8) -->
 
-## 1. CONTACT
-- **Email** : dldnjssh123@naver.com <br/>
+### 흐름이 끊기지 않는 웹을 개발합니다.
+안녕하세요. 프론트엔드 엔지니어 이원노입니다. <br />
+2년간 ERP 서비스를 개발하며 복잡한 업무를 화면에 풀어왔습니다. <br />
+사용자가 헤매지 않고 이해하기 쉬운 흐름을 만듭니다. <br />
 
-## 2. SKILLS
+[📝 Portfolio](https://drive.google.com/file/d/1PNTuykdPFrGtlGETxctw8DNcjqEVoHuU/view?usp=sharing)
+
+### Skills
 - **Languages** : `JavaScript`, `TypeScript`, `Python`
 - **Frontend** : `React`, `Next.js`, `TanStack`, `Redux`, `Zustand`, `JQuery`,
 - **Backend** : `Django`, `NestJS`, `Node.js`
@@ -11,9 +15,12 @@
 - **Query Language** : `SQL`, `GraphQL`
 <!-- - **Database** : `MySQL`, `PostgreSQL` -->
 
-## 3. CAREER
+### Experience
 - ErounSoft - 2025.12 ~ 2026.03
 - SeoulSoft - 2024.04 ~ 2025.11
+
+### Contact
+dldnjssh123@naver.com <br/>
 
 <!--
 <div>
