@@ -8,10 +8,9 @@
 
 ### Skills
 - **Languages** : `JavaScript`, `TypeScript`, `Python`
-- **Frontend** : `React`, `Next.js`, `TanStack`, `Redux`, `Zustand`, `JQuery`,
+- **Frontend** : `React`, `Next.js`, `TanStack`, `Redux`, `Zustand`, `jQuery`
 - **Backend** : `Django`, `NestJS`, `Node.js`
 - **Cloud/BaaS** : `AWS`, `Firebase`, `Supabase`
-- **Query Language** : `SQL`, `GraphQL`
 <!-- - **Database** : `MySQL`, `PostgreSQL` -->
 
 ### Experience
