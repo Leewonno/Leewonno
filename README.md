@@ -8,7 +8,7 @@
 
 ### Skills
 - **Languages** : `JavaScript`, `TypeScript`, `Python`
-- **Frontend** : `React`, `Next.js`, `TanStack`, `Redux`, `Zustand`, `jQuery`
+- **Frontend** : `React`, `Next.js`, `Vue.js`, `TanStack`, `Redux`, `Zustand`, `jQuery`
 - **Backend** : `Django`, `NestJS`, `Node.js`
 - **Cloud/BaaS** : `AWS`, `Firebase`, `Supabase`
 <!-- - **Database** : `MySQL`, `PostgreSQL` -->
