@@ -10,8 +10,8 @@
 
 ### Skills
 - **Languages** : `JavaScript`, `TypeScript`, `Python`
-- **Frontend** : `React`, `Next.js`, `Vue.js`, `TanStack Query`, `Redux`, `Zustand`, `jQuery`
-- **Backend** : `Django`, `NestJS`, `Node.js`
+- **Frontend** : `React`, `Next.js`, `TanStack Query`, `Redux`, `Zustand`, `jQuery`
+- **Backend** : `Django`, `Node.js`, `NestJS`
 - **Cloud/BaaS** : `AWS`, `Firebase`, `Supabase`
 <!-- - **Database** : `MySQL`, `PostgreSQL` -->
 
@@ -22,6 +22,11 @@
 
 ### Contact
 dldnjssh123@naver.com <br/>
+
+### Currently
+- **Google UX Design Certificate** 과정을 수강하고 있습니다.
+- **정보처리기사** 시험을 준비하고 있습니다.
+- 개인 프로젝트 **노벨피디아**, **여백**을 진행하고 있습니다.
 
 <!--
 <div>
