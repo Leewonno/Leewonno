@@ -1,7 +1,7 @@
 <!-- ![image](https://github.com/user-attachments/assets/ae8639b7-5a5e-4596-8cc1-28f1593000d8) -->
 
 ### 흐름이 끊기지 않는 웹을 개발합니다.
-[📄 Resume](https://drive.google.com/file/d/1kiF6bXDTZ1GK8uZHqWD-wwJGD8uR4DmE/view?usp=sharing) 
+[📄 Resume](https://drive.google.com/file/d/17x2w6jURSDknIXfERXRrlMRsXWV9KLyR/view?usp=sharing) 
 [📝 Portfolio](https://drive.google.com/file/d/1AbPN95IrovzGFOTNJ3P3_GCPdLBimpJ6/view?usp=sharing) <br />
 
 
