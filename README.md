@@ -11,12 +11,13 @@
 사용자가 헤매지 않고 이해하기 쉬운 흐름을 만듭니다. <br />
 
 ---
-
+<!-- 
 ### Skills
 - **Languages** : `JavaScript`, `TypeScript`, `Python`
 - **Frontend** : `React`, `Next.js`, `TanStack Query`, `Redux`, `Zustand`, `jQuery`
 - **Backend** : `Django`, `Node.js`, `NestJS`
 - **Cloud/BaaS** : `AWS`, `Firebase`, `Supabase`
+-->
 <!-- - **Database** : `MySQL`, `PostgreSQL` -->
 
 ### Experience
