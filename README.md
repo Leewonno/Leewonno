@@ -3,11 +3,9 @@
 ### 흐름이 끊기지 않는 웹을 개발합니다.
 [📄 Resume](https://drive.google.com/file/d/1aIRrSmnnWqokDLNi-a7d5vJkghXYwaCI/view?usp=sharing) <br />
 
-
-
 안녕하세요. 프론트엔드 엔지니어 이원노입니다. <br />
-화면 밖으로 나가는 순간 흐름은 끊깁니다. <br />
-나가지 않아도 되는 이해하기 쉬운 화면을 만듭니다. <br />
+시선이 화면 밖으로 나가는 순간, 흐름은 끊깁니다. <br />
+사용자의 시선을 붙잡고, 경험을 이어가는 화면을 만듭니다. <br />
 
 ---
 <!-- 
@@ -26,10 +24,6 @@
 
 ### Contact
 dldnjssh123@naver.com <br/>
-
-### Currently
-- **Google UX Design Certificate** 과정을 수강하고 있습니다.
-- 개인 프로젝트 **노벨피디아**를 개발하고 있습니다.
 
 <!--
 <div>
