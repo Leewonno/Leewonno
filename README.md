@@ -3,10 +3,6 @@
 ### 흐름이 끊기지 않는 웹을 개발합니다.
 [📄 Resume](https://drive.google.com/file/d/1aIRrSmnnWqokDLNi-a7d5vJkghXYwaCI/view?usp=sharing) <br />
 
-안녕하세요. 프론트엔드 엔지니어 이원노입니다. <br />
-시선이 화면 밖으로 나가는 순간, 흐름은 끊깁니다. <br />
-시선을 붙잡고 경험을 잇는 화면을 만듭니다. <br />
-
 ---
 <!-- 
 ### Skills
