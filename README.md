@@ -3,7 +3,6 @@
 ### 흐름이 끊기지 않는 웹을 개발합니다.
 [📄 Resume](https://drive.google.com/file/d/1aIRrSmnnWqokDLNi-a7d5vJkghXYwaCI/view?usp=sharing) <br />
 
----
 <!-- 
 ### Skills
 - **Languages** : `JavaScript`, `TypeScript`, `Python`
